@@ -7,6 +7,6 @@ I created a fake Facebook to improve my Skills.
 # Programming language
 To create fake Facebook .I use Many language .
 
--HTML
--CSS
--JAVAScript
+- HTML
+- CSS
+- JAVAScript
